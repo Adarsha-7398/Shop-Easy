@@ -1,2 +1,2 @@
-# E-commerce2
- A E-Commerce Website which has multiple pages made with programming languages like HTML,CSS and Javascript .This website is highly responsive and can be access by any device
+# E-commerce1
+ A E-Commerce website which includes multiple pages made with languages like Html,Css and Javascript .This website is highly responsive which can be access by any device .
